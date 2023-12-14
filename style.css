@@ -1,0 +1,14 @@
+.sekil{
+    height: 700px;
+    background-image: url(red.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.sekil2{
+    height: 700px;
+    background-image: url(Neftçi2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
